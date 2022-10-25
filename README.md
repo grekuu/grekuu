@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Redux and Typescript**
 
-- 👨‍💻 All of my projects are available at [portfolio-grekuu.vercel.app](portfolio-grekuu.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="portfolio-grekuu.vercel.app" target="_blank">portfolio-grekuu.vercel.app</a>
 
 - 📫 How to reach me **gracjanprusik@gmail.com**
 
