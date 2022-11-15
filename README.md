@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Gracjan</h1>
+<h1 align="center">Hi, I'm Gracjan</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <img align="right" alt="cat" width="400" src="https://media.tenor.com/gsFeEP9xKh4AAAAM/cat-couple.gif" />
-
-- 🌱 I’m currently learning **Redux and Typescript**
 
 - 👨‍💻 All of my projects are available at <b>portfolio-grekuu.vercel.app</b>
 
