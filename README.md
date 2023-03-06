@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gracjan</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Frontend developer from Poland</h3>
 <img align="right" alt="cat" width="400" src="https://media.tenor.com/gsFeEP9xKh4AAAAM/cat-couple.gif" />
 
 - 👨‍💻 Some of my projects are available at <b>portfolio-grekuu.vercel.app</b>
